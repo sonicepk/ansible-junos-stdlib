@@ -21,6 +21,6 @@ COPY library library
 COPY meta meta
 COPY module_utils module_utils
 
-WORKDIR /projects
+WORKDIR /project
 
-VOLUME /projects
+VOLUME /project
